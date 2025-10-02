@@ -1,1 +1,2 @@
 Rebase demo - Commit 1
+Rebase file changed by teammate
